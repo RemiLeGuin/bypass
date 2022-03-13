@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountRatingUpdate</members>
+        <members>AccountRatingUpdateTest</members>
+        <members>AccountTestDataFactory</members>
+        <members>Bypass</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AccountBeforeUpdate</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Bypass_AccountTrigger</members>
+        <name>CustomPermission</name>
+    </types>
+    <types>
+        <members>Bypass</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>54.0</version>
+</Package>

@@ -1,0 +1,15 @@
+{
+    "packageDirectories": [
+        {
+            "path": "bypass",
+            "default": true
+        },
+        {
+            "path": "bypass-test",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "54.0"
+}
